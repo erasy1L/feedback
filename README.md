@@ -33,7 +33,7 @@
 
 Feedback management service API written using [NestJS](https://github.com/nestjs/nest) framework with [TypeORM](https://github.com/typeorm/typeorm). Authentication is done with simple JWT access token.
 
-Deployed version is at https://feedback-production-7b76.up.railway.app/docs
+Deployed version is at https://feedback-production-4336.up.railway.app/docs
 
 ## Table of Contents
 
